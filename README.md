@@ -1,5 +1,5 @@
 
-Olá, Sou Francisco Charles Oliveira Lima, 
+Olá, Sou Francisco Charles Oliveira Lima, desenvolvedor em formação e estou aprendendo as tecnologias abaixo:
 <br>
 <br>
 
